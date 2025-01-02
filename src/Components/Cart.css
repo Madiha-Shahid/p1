@@ -1,0 +1,137 @@
+.container {
+
+margin-top: -250px;
+margin-left: 20px
+
+}
+.header{
+  background-color: white;
+  height: auto;
+}
+
+.rb{
+  color: red;
+  background-color: white;
+}
+.sb{
+  color: blue;
+  background-color: white;
+  margin-left: 20px;
+}
+.ck{
+  background-color: darkgreen;
+  color: white;
+}
+.btc{
+  background-color: blue;
+  color: white;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.ra{
+  background-color: white;
+  color: blue;
+  margin-left: 500px;
+}
+.item-c{
+  display: grid;
+ margin-top: 50px;
+ padding: 10px;
+ letter-spacing: normal;
+}
+
+.item img {
+  width: 150px; 
+  height: auto;
+  border-radius: 8px;  
+}
+.remove-button{
+  color: red;
+}
+.text-cloth-color{
+  color: gray;
+}
+.item p {
+  margin: 0;  
+  font-size: 16px;  /* Set text size */
+}
+
+.container-2{
+
+    display: flex;
+    justify-content: flex-end;
+  margin-top: 70px;
+  margin-left: 100px;
+  
+
+}
+.sfl{
+  margin-left: 20px;
+  margin-top: 180px;
+}
+
+.coupon-b{
+  color: blue;
+}
+.label-button{
+  display: inline-flex;
+
+}
+
+
+
+.pmoc{
+  margin-top: 20px;
+}
+.container-3{
+  margin-top: 70px;
+ display: flex;
+ gap: 40px;
+ margin-left: 20px;
+
+  
+}
+.c-4{
+  margin-top: 50px;
+  margin-left: -640px;
+}
+
+.container-4{
+  margin-top: 50px;
+  background-color: blue;
+  color: aliceblue;
+  width: 1400px;
+ 
+ 
+}
+.container-5{
+  margin-left: 950px;
+}
+
+.img-h{
+  margin-top: -20px;
+}
+button.blue-button{
+  background-color: orange;
+  color: aliceblue;
+  margin-left:800px;
+  position: relative;
+
+ 
+}
+
+.ict{
+  margin-left: 100px;
+  margin-top: -85px;
+}
+
+.icb{
+  margin-left: 90px;
+}
+.down{
+  margin-left: 800px;
+}
+.brand-col{
+ margin: 0 !important;
+ margin-left: 50px;
+}

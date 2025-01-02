@@ -1,0 +1,289 @@
+.banner{
+    margin-left: 300px;
+    margin-top: 200px;
+}
+.container-header {
+ 
+margin-top: -100px;
+background-color: white;
+
+}
+.banners{
+  margin-top: -100px;
+}
+.pmoc{
+
+  margin-top: -70px;
+  
+  display: flex;
+
+  margin-left: 1050px;
+  }
+
+.right-banner{
+    margin-left: 970px;
+    margin-top: -190px;
+}
+.right-lower-banner{
+    margin-left: 970px;
+   
+}
+
+.navigation{
+  padding: 5px;
+  position: absolute;
+  margin-top: -5px;
+}
+.b-crumb{
+  margin-top: 10px;
+  
+  position: relative;
+}
+
+.cloth-grid{
+  margin-left: 1060px;
+  display: flex;
+  margin-top: 1800px;
+}
+
+/* Grid Container */
+
+
+
+.gridview-1 {
+  display: grid; 
+  grid-template-columns: repeat(4, 1fr); 
+  gap: 2px; 
+  margin-left: 350px;
+  max-width: 1000px;
+ 
+  
+}
+
+
+/* Left-side Layout */
+.left-side-1 {
+   
+  width: 100%;
+  height: auto;
+  padding: 20px; 
+margin-top: -290px;
+margin-left: -10px;
+  
+}
+
+.gridview-2 {
+  display: grid; 
+  grid-template-columns: repeat(4, 1fr); 
+  gap: 5px; 
+ row-gap: 10px;
+ margin-left: 350px;
+  max-width: 1000px;
+  margin-top: 50px;
+  
+}
+.m-banner{
+  margin-left: 30px;
+  width: 100%;
+  background-color: rgb(55, 70, 206);
+  margin-top: 80px;
+  color: blue;
+  
+position: absolute;
+width: 1180px;
+
+position: absolute;
+width: 1180px;
+height: 420px;
+
+
+}
+.gc{
+  margin-left: 20px;
+  margin-top: 40px;
+}
+.fgt{
+  margin-left: 30px;
+  margin-top: 10px;
+  
+}
+.grid{
+  margin-top: 250px;
+  margin-left: 20px;
+}
+.fgtr{
+  color: red;
+  margin-left: 20px;
+}
+/* Left-side Layout */
+.left-side-2 {
+
+  width: 100%;
+  height: auto;
+  padding: 20px; 
+  margin-top: -290px;
+  
+}
+.fi{
+  height: 140px;
+  width: 140px;
+}
+.fgridu{
+  display: flex;
+  gap: 50px;
+  margin-left: 320px;
+  margin-top: -120px;
+ 
+}
+.grid-cloths{
+  display: grid; 
+  grid-template-columns: repeat(5, 1fr); 
+  gap: 25px; 
+  padding: 10px;
+ margin-left: 20px;
+  max-width: 1000px;
+  margin-top: 70px;
+ 
+}
+.f-banner{
+  display: grid; 
+  grid-template-columns: repeat(4, 1fr); 
+  gap: 25px; 
+  padding: 10px;
+ margin-left: 50px;
+  max-width: 600px;
+  margin-top: 80px;
+}
+.oes{
+  margin-top: 40px;
+  margin-left: 50px;
+}
+.is{
+ height: 200px;
+ width: 200px;
+}
+.h3{
+  margin-top: 50px;
+}
+
+.Lbg{
+  margin-top: -88px;
+  margin-left: 245px;
+}
+
+.Lf-grid1{
+  
+margin-top: -50px;
+margin-left: 255px;
+}
+.f-grid1{
+  
+
+margin-top: -50px;
+margin-left: 255px;
+
+
+}
+
+.bg{
+  margin-top: -88px;
+margin-left: 245px;
+
+}
+.sa{
+  color: grey;
+  margin-top: -20px;
+}
+.flags{
+  display: grid; 
+  grid-template-columns: repeat(5, 1fr); 
+ 
+  width: 1400px;
+ height: -20px;
+  margin-left: 60px;
+
+  margin-top: 100px;
+
+}
+.texting{
+
+  margin-top: 30px;
+}
+.ri{
+  margin-top: 550px;
+  margin-left: 30px;
+}
+.fn{
+  margin-left: 40px;
+  font-size: 10px;
+  margin-top: -25px;
+  gap: 1px;
+  row-gap: 10px;
+}
+.sns{
+  margin-left: -220px;
+}
+.submit{
+  margin-top: -40px;
+  margin-left: -120px;
+}
+.down{
+margin-left: -400px;
+margin-top: 80px;
+margin-right: 10px;
+position: relative;
+
+ 
+}
+.ti{
+  margin-top: 20px;
+}
+.ti2{
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.bbbb{
+  display: inline;
+  row-gap: 20px;
+}
+.button.bbi{
+  margin-top: 10px;
+  position: relative;
+}
+.button.wbi{
+  margin-top: 40px;
+  position: relative;
+  margin-left: 20px;
+}
+.ai{
+  margin-top: 20px;
+}
+.fai{
+ margin-top: -360px;
+  margin-left: 970px;
+position: relative;
+  width: 200px;
+  height: 165px;
+  background-color: rgb(144, 214, 191);
+ 
+ 
+}
+.brand-col{
+position: relative;
+width: 150px;
+margin-left: 50px;
+  
+}
+.search-form-button{
+  margin-top: -10px;
+}
+.tg{
+font-size: 12px;
+margin-left: -40px;
+margin-top: 50px;
+
+}
+.ti{
+  margin-left: 50px;
+  margin-top: -40px;
+}
